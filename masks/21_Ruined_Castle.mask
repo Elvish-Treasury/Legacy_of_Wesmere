@@ -1,5 +1,0 @@
-_f, _f, _f, _f, _f, _f, _f, _f, _f
-_f, Cv, Kv, Cvr, Rb^Es, Cvr, Cv, _f, _f
-_f, Cv, Cvr, Kvr, Rb^Es, Kvr, Cvr, Cv, _f
-_f, _f, _f, Cvr, _f, Cvr, _f, _f, _f
-_f, _f, _f, _f, _f, _f, _f, _f, _f
